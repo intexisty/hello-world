@@ -4,3 +4,5 @@ cpp/.idea/*
 cpp/cmake-build-debug/*
 csharp/.vs/*
 csharp/obj/*
+visualbasic/.vs/*
+visualbasic/obj/*
